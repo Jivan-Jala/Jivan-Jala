@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Git, Linux, DSA, and ML basics**
 
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **jivamjyotijala@gmail.com**
 
 - ⚡ Fun fact: I love chai, coding at night, and experimenting with side projects 😄
 
